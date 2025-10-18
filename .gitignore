@@ -1,0 +1,7 @@
+#   Node Pakages folder
+node_modules 
+
+# Enviroment Variables
+.env
+
+
