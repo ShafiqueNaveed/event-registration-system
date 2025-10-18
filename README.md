@@ -71,6 +71,7 @@ Server runs on http://localhost:3000.
 
 ### Folder Structure
 
+\`\`\`
 event-registration-system/
 ├── app.js              # Main server file
 ├── authMiddleware.js   # JWT middleware
@@ -83,6 +84,7 @@ event-registration-system/
 ├── .env               # Environment variables
 ├── package.json       # Dependencies
 └── README.md          # This file
+\`\`\`
 
 ### Notes
 
